@@ -1,0 +1,1 @@
+F:\college\Operating Systym 2\Project\threading\sudokoThread\sudoko\bin\Debug\sudoko.exe.config
